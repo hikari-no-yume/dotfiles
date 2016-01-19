@@ -1,0 +1,8 @@
+[user]
+	email = ajf@ajf.me
+	name = Andrea Faulds
+[core]
+	excludesfile = /Users/ajf/gitignore_global
+	editor = nano
+[push]
+	default = simple
