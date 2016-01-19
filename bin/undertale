@@ -1,0 +1,6 @@
+#!/bin/sh
+oldwd=`pwd`
+cd /Volumes/Extra\ space/Apps/Games/SteamLibrary/steamapps/common/Undertale/UNDERTALE.app/Contents/MacOS/
+./Mac_Runner &>/dev/null &
+cd "$oldwd"
+disown
