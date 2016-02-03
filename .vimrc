@@ -9,4 +9,5 @@ autocmd FileType yacc setlocal noexpandtab
 autocmd FileType make setlocal noexpandtab
 au BufNewFile,BufFilePre,BufRead *.md set filetype=markdown
 autocmd FileType markdown setlocal linebreak
-set autoindent 
+set autoindent
+set backspace=indent,eol,start
