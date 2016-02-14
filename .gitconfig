@@ -3,6 +3,6 @@
 	name = Andrea Faulds
 [core]
 	excludesfile = /Users/ajf/gitignore_global
-	editor = nano
+	editor = vim
 [push]
 	default = simple
