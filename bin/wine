@@ -1,2 +1,0 @@
-#!/bin/sh
-/Applications/Wine.app/Contents/Resources/bin/wine "$@"
