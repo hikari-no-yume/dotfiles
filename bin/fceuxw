@@ -1,0 +1,2 @@
+#!/bin/sh
+wine ~/Apps/fceux-2.2.3-win32/fceux.exe "$@"
