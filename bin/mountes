@@ -1,0 +1,2 @@
+#!/bin/sh
+diskutil mount "Extra space"
