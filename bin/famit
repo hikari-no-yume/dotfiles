@@ -1,2 +1,2 @@
 #!/bin/sh
-wine ~/Apps/FamiTracker-v0.4.6/FamiTracker.exe "$@"
+disowning wine ~/Apps/FamiTracker-v0.4.6/FamiTracker.exe "$@"
