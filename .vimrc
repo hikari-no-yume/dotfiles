@@ -11,3 +11,4 @@ au BufNewFile,BufFilePre,BufRead *.md set filetype=markdown
 autocmd FileType markdown setlocal linebreak
 set autoindent
 set backspace=indent,eol,start
+set hidden
