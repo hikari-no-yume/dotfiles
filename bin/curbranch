@@ -1,2 +1,2 @@
 #!/bin/sh
-git branch | grep '*'
+git branch | grep '*' | sed 's/^* //'
