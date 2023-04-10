@@ -13,3 +13,4 @@ autocmd BufNewFile,BufFilePre,BufRead */llvm* setlocal sw=2 ts=2 expandtab
 set autoindent
 set backspace=indent,eol,start
 set hidden
+set ruler
